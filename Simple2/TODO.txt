@@ -1,0 +1,47 @@
+MOBILE
+
+    Header:
+        - Add JS for hamburger menu (JS)
+
+    Home:
+        - Add in all content (HTML)
+        - Style portfolio page (CSS)
+        - Add experiences images (HTML + CSS)
+        - Style designs (blurred pics behind text)
+        - Style 'what RiDDL stands for' page (CSS)
+        - Add animation for 'front end back end and DIL' (JS)
+        - Add small un-blurring animation for design portfolio (JS)
+        - Add mini scrolling functionality for 'find out what riddl stands for' part.
+
+    About:
+        - Add in all content (HTML)
+        - Style content (CSS)
+
+    Reviews:
+        - Add content (HTML)
+        - Add review form (CSS forms + HTML + JS)
+        - Add horizontal scrolling for reviews (JS)
+
+    Pricing:
+        - Add content (HTML)
+        - Style content (CSS)
+
+    Contact:
+        - Add form (HTML + CSS + JS)
+
+    Footer:
+        - Add content (HTML)
+        - Style content (CSS)
+
+DESKTOP:
+
+    Header:
+        - Implement navbar at top of screen (CSS predominantly)
+
+    All Pages:
+        - Ensure black/white squares scale accordingly
+        - Ensure font scales accordingly
+        - Ensure everything is centered when changing sizes
+
+ALL
+- Add snap scrolling feature (JS)

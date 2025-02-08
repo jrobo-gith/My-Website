@@ -1,0 +1,29 @@
+:root {
+    --uni-font: "Open Sans", sans-serif;
+    --uni-dark: #2B2B2B;
+    --uni-white: #f2f2f2;
+    --uni-gold: #FFC069;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+    font-family: var(--uni-font);
+    background-color: var(--uni-white);
+}
+
+/*----------------------------------------------HEADER----------------------------------------------*/
+
+.title h1 {
+    font-style: italic;
+    font-weight: 100;
+    font-size: 32px;
+
+    color: var(--uni-gold);
+}
+
+.burger div {
+    background-color: var(--uni-gold);
+}
