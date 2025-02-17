@@ -1,3 +1,3 @@
 ## Website Designs
 
-![Dashboard](images/SimpleV3/Intro.png)
+![Dashboard](Images/SimpleV3/Intro.png)
