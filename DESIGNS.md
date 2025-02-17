@@ -16,4 +16,3 @@
 
 ## Into the Polaroid
 ![Nav](Images/Into_The_Polaroid/Nav.png)
-
