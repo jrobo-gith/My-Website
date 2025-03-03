@@ -10,6 +10,9 @@ app.use(express.static("public"));
 app.get("/", (req, res) => {
     res.render("home.ejs");
 });
+app.get("/about", (req, res) => {
+    res.render("about.ejs");
+})
 app.get("/designs", (req, res) => {
     res.render("designs.ejs");
 });
